@@ -1,0 +1,43 @@
+.headercolor{
+    background-color: black;
+    color: #fff;
+    align-content: center;
+    text-align: center;
+    border: 2px #fff solid ;
+}
+
+.sidebarred{
+    background-color: green;
+    border: 2px solid white;
+}
+
+.botones{
+    background-color: yellow;
+    align-content: center;
+    align-items: center;
+    padding: auto;
+    color: green;
+}
+.cajas{
+   
+    padding: 10;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.boton{
+    padding-left: 5;
+    padding-right: 5;
+}
+
+.footercolor{
+    background-color: green;
+    border: 2px solid white;
+    color: #fff;
+    text-align: center;
+}
